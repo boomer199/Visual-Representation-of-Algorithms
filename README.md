@@ -1,1 +1,1 @@
-# Dijkstra-s-Algorithm-Visual-Representation
+#Algorithm-Visual-Representation
